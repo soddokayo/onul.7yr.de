@@ -2,6 +2,7 @@
 project ONUL with Flask and local file access in python
 
 # tree .
+```bash
 .
 ├── flaskr
 │   ├── auth.py
@@ -34,6 +35,7 @@ project ONUL with Flask and local file access in python
 └── venv
 
 8 directories, 21 files
+```
 
 # contact
 soddokayo@gmail.com
